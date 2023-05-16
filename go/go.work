@@ -3,4 +3,5 @@ go 1.20
 use (
 	./ds
 	./examples/ds
+	./patterns/creational
 )
