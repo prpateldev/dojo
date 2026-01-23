@@ -1,0 +1,9 @@
+cdk init app --language=typescript
+cdk bootstrap
+cdk synth
+cdk deploy
+cdk list 
+cdk diff
+cdk doctor
+cdk destroy CloudFormationStackName
+cdk deploy --parameters duration=11
